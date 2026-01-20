@@ -40,7 +40,12 @@ Neural Style Transfer is a deep learning technique that:
 ---
 
 ## 📂 Project Structure
-
+Neural-Style-Transfer/
+│
+├── content.jpg # Content image
+├── style.jpg # Style image
+├── nst.ipynb # Jupyter Notebook
+└── README.md # Project documentation
 
 ---
 
